@@ -7,3 +7,5 @@ instance. Since deployment runs over SSH, the host needs to
 be able to ssh into the container.
 
 This script automates the steps needed to get there.
+
+License: GNU General Public License, version 2
